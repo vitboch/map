@@ -1,0 +1,167 @@
+@media (max-width: 1600px) {
+  .btn1 {
+    top: 22%;
+  }
+
+  .btn2 {
+    top: 16%;
+  }
+
+  .btn3 {
+    top: 37%;
+  }
+
+  .btn4 {
+    top: 30%;
+  }
+
+  .btn5 {
+    top: 36%;
+  }
+
+  .btn6 {
+    top: 54%;
+  }
+
+  .btn7 {
+    top: 47%;
+  }
+
+  .btn8 {
+    top: 51%;
+  }
+
+  .btn9 {
+    top: 54%;
+  }
+
+  .btn10 {
+    top: 61%;
+  }
+}
+
+@media (max-width: 1440px) {
+  .btn1 {
+    top: 20%;
+  }
+
+  .btn2 {
+    top: 14%;
+  }
+
+  .btn3 {
+    top: 33%;
+  }
+
+  .btn4 {
+    top: 26%;
+  }
+
+  .btn5 {
+    top: 32%;
+  }
+
+  .btn6 {
+    top: 49%;
+  }
+
+  .btn7 {
+    top: 42%;
+  }
+
+  .btn8 {
+    top: 46%;
+  }
+
+  .btn9 {
+    top: 49%;
+  }
+
+  .btn10 {
+    top: 55%;
+  }
+}
+
+@media (max-width: 1366px) {
+  .btn1 {
+    top: 18%;
+  }
+
+  .btn2 {
+    top: 12%;
+  }
+
+  .btn3 {
+    top: 31%;
+  }
+
+  .btn4 {
+    top: 24%;
+  }
+
+  .btn5 {
+    top: 30%;
+  }
+
+  .btn6 {
+    top: 43%;
+  }
+
+  .btn7 {
+    top: 39%;
+  }
+
+  .btn8 {
+    top: 43%;
+  }
+
+  .btn9 {
+    top: 46%;
+  }
+
+  .btn10 {
+    top: 51%;
+  }
+}
+
+@media (max-width: 1280px) {
+  .btn1 {
+    top: 17%;
+  }
+
+  .btn2 {
+    top: 11%;
+  }
+
+  .btn3 {
+    top: 30%;
+  }
+
+  .btn4 {
+    top: 23%;
+  }
+
+  .btn5 {
+    top: 28%;
+  }
+
+  .btn6 {
+    top: 42%;
+  }
+
+  .btn7 {
+    top: 37%;
+  }
+
+  .btn8 {
+    top: 41%;
+  }
+
+  .btn9 {
+    top: 44%;
+  }
+
+  .btn10 {
+    top: 49%;
+  }
+}
